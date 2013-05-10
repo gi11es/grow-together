@@ -1,1 +1,1 @@
-Grow Together was a non-profit ad exchange Facebook app. Its goal was to let app developers cross-promot each other fairly. It ran uninterrupted between 2007 and 2009 and served millions of impressions.
+Grow Together was a non-profit ad exchange Facebook app. Its goal was to let app developers cross-promote each other fairly. It ran uninterrupted between 2007 and 2009 and served millions of impressions.
