@@ -1,0 +1,4 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^appdonatedstats-([^.]+).xml$ http://grow.darumazone.com/charts/appdonatedstats.php?appid=$1 [L]
+RewriteRule ^appreceivedstats-([^.]+).xml$ http://grow.darumazone.com/charts/appreceivedstats.php?appid=$1 [L]
